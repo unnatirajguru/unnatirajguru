@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/unnatirajguru">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Frontend+Developer+%E2%9C%A8;Passionate+about+Building+Cool+Projects;Exploring+React+%26+Node.js+%F0%9F%9A%80;Open+to+Collaborate+%E2%9D%A4%EF%B8%8F" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Software+Developer+and+QA+Enthusiast+%E2%9C%A8;Passionate+about+Building+Cool+Projects;Exploring+Testing+%26+Frameworks+%F0%9F%9A%80;Open+to+Collaborate+%E2%9D%A4%EF%B8%8F" alt="Typing SVG">
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 💻 **About Me:**
 - 🎯 A passionate **Software Developer & QA Enthusiast** who loves building interactive user interfaces or Testing it.
 - 🚀 I am currently exploring **API Testing** and **Automation Tools** to broaden my Testing knowledge.
-- 🌱 Enthusiastic about learning and implementing **PostgreSQL** ,**JAVA**, **Manual Testing** and **Automation Testing** to expand my capabilities.
+- 🌱 Enthusiastic about learning and implementing **Core JAVA**, **Oracle SQL**, **Manual Testing** and **Automation Testing** to expand my capabilities.
 - 🎨 Creativity and problem-solving are my strongest assets.
 - 🏆 Built multiple projects including a **Portfolio Website**, **Landing page**, **Calculator**,**Shopperstack(manual testing)** , **OrangeHRM(automation testing)** any many more.
 - 🙋‍♀ Always open to learning new technologies and frameworks to enhance my development skills.
