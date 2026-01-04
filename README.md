@@ -7,25 +7,25 @@
 ![MasterHead](https://img.freepik.com/free-photo/man-using-laptop-night-top-view-web-banner-with-copy-space_169016-53607.jpg?t=st=1731839381~exp=1731842981~hmac=216e1eee93ce69f62156dbe8e217a8fa08b73c5710eff53689a9b9851884462d&w=1380)
 <h1 align="center">Hello👋, I'M UNNATI RAJGURU</h1>
 
-<h3 align="center">A Passionate frontend developer from India.</h3>
+<h3 align="center">A Software Developer & QA Enthusiast </h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?t=st=1731840972~exp=1731844572~hmac=7b908c23f063b3c6ce16accbf265da3ca97b2e743b08ce08110e6b3b61a6186c&w=740">
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=unnatirajguru&label=Profile%20views&color=0e75b6&style=flat" alt="unnatirajguru" />
 </p>
 
 💻 **About Me:**
-- 🎯 A passionate **Frontend Developer** who loves building interactive user interfaces.
-- 🚀 I am currently exploring **JAVA** and **SPRING BOOT** to broaden my backend knowledge.
-- 🌱 Enthusiastic about learning and implementing **PostgreSQL** ,**JAVA** and **SpringBoot** to expand my full-stack capabilities.
+- 🎯 A passionate **Software Developer & QA Enthusiast** who loves building interactive user interfaces or Testing it.
+- 🚀 I am currently exploring **API Testing** and **Automation Tools** to broaden my Testing knowledge.
+- 🌱 Enthusiastic about learning and implementing **PostgreSQL** ,**JAVA**, **Manual Testing** and **Automation Testing** to expand my capabilities.
 - 🎨 Creativity and problem-solving are my strongest assets.
-- 🏆 Built multiple projects including a **Portfolio Website**, **Landing page**, **Calculator**, any many more.
+- 🏆 Built multiple projects including a **Portfolio Website**, **Landing page**, **Calculator**,**Shopperstack(manual testing)** , **OrangeHRM(automation testing)** any many more.
 - 🙋‍♀ Always open to learning new technologies and frameworks to enhance my development skills.
 
 - 👨‍💻 My development work is showcased at https://github.com/unnatirajguru
 
 - 🔗 Linkedin Profile https://www.linkedin.com/in/unnati-rajguru-b91028287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-- 💬 Ask me about **HTML,CSS,Javascript,Java,PostgreSQL**
+- 💬 Ask me about **Core Java,Manual Testing,Automation Testing,Oracle SQL,HTML,CSS,Java**
 
 - 📫 How to reach me **unnatirajguru01@gmail.com**
 
