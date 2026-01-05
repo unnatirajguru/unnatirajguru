@@ -8,7 +8,7 @@
 <h1 align="center">Hello👋, I'M UNNATI RAJGURU</h1>
 
 <h3 align="center">A Software Developer & QA Enthusiast </h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?t=st=1731840972~exp=1731844572~hmac=7b908c23f063b3c6ce16accbf265da3ca97b2e743b08ce08110e6b3b61a6186c&w=740">
+<img align="right" alt="Coding" width="300" src="https://img.freepik.com/free-vector/quality-assurance-abstract-concept-illustration_335657-3860.jpg"   >
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=unnatirajguru&label=Profile%20views&color=0e75b6&style=flat" alt="unnatirajguru" />
 </p>
@@ -25,7 +25,7 @@
 
 - 🔗 Linkedin Profile https://www.linkedin.com/in/unnati-rajguru-b91028287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-- 💬 Ask me about **Core Java,Manual Testing,Automation Testing,Oracle SQL,HTML,CSS,Java**
+- 💬 Ask me about **Core Java,Manual Testing,Automation Testing,TestNG,Oracle SQL,HTML,CSS,**
 
 - 📫 How to reach me **unnatirajguru01@gmail.com**
 
@@ -37,4 +37,42 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+<p align="left">
+
+  <!-- HTML -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+
+  <!-- CSS -->
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+
+  <!-- Java -->
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+
+  <!-- Oracle SQL -->
+  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+  </a>
+
+  <!-- Manual Testing (bug icon) -->
+ <a href="#" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/fluency-systems-filled/48/000000/test-passed.png" alt="Manual Testing" width="40" height="40"/>
+</a>
+
+
+  <!-- Automation Testing (Selenium) -->
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="automation testing" width="40" height="40"/>
+  </a>
+
+</p>
